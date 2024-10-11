@@ -1,1 +1,1 @@
-print('Aslonov Bekhzod')
+print('Aslonov Bekhzod') #домоооой
